@@ -1,0 +1,6 @@
+# intellijexpert
+This app is same as the linux game but it deals with using the intellij Editor and Android studio for making user more productive 
+Most of the time we can find the tips in the intellij itself or from its website ...
+
+This is going to be fucking awesome ... we are heading towards good direction of learning man ...
+Making app for yourself is one of the best things :D 
